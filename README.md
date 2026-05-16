@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working at **NTT DATA, Bangalore**  
 - 🌱 I’m currently learning **DevOps, Cloud, and Infrastructure Automation**  
-- 💬 Ask me about **VoIP Administration, Unified Communications, or DevOps Tools**  
+- 💬 Ask me about **Netwrking, Cloud or DevOps Tools**  
 - 📫 Reach me at **Sathish1107s@gmail.com**  
 - ⚡ Fun fact: *I believe great teamwork builds great systems!*  
 
